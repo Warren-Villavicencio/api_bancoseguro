@@ -4,13 +4,15 @@
 Se desarrolló una API que simula un cajero automático ATM.
 
 
-
 Requisitos:
 Se debe instalar Python
 Se debe extender instalado Mysql
 Se debe tener instalado xampp 
+
 Posteriormente se debe digitar la siguiente línea de comandos. Para instalar fastapi uvicorn sqlalchemy pymysql
+
 pip install fastapi uvicorn sqlalchemy pymysql
+
 Para levantar el servidor se debe ejecutar este comando.
 uvicorn main:app --reload
 
