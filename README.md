@@ -3,6 +3,15 @@
 
 Se desarrolló una API que simula un cajero automático ATM.
 
+La aplicación permite:
+
+Registrar una cuenta bancaria 
+listas de las cuentas bancarias ingresadas
+consultar cuentas bancarias
+borrar una cuenta bancaria
+cambiar clave de cajero  
+depositar dinero depositar dinero
+retirar dinero
 
 Requisitos:
 Se debe instalar Python
